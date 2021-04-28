@@ -1,3 +1,3 @@
 # Airport-Simulation
 
-### Simulates an Airport Scenario using Semaphores.
+### Simulated an Airport Scenario using Semaphores.
